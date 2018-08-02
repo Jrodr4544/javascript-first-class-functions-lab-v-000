@@ -8,9 +8,9 @@ var createMultiplier = (multiplierValue) => {
   }
 }
 
-// var   multiplier = (val) => {
-//   return multiplierValue * val;
-// }
+var   multiplier = (val) => {
+  return multiplierValue * val;
+}
 
   
 var doubler = createMultiplier(2);
